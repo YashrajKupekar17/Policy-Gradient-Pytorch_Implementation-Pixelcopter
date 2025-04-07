@@ -1,8 +1,8 @@
-# 🧠 Policy Gradient (REINFORCE) with PyTorch
+#  Policy Gradient (REINFORCE) with PyTorch
 
 This project implements the **Policy Gradient (REINFORCE)** algorithm using PyTorch on:
-- 🏗️ **CartPole-v1**
-- 🚁 **Pixelcopter-v0** (from `gymnasium[box2d]`)
+-  **CartPole-v1**
+-  **Pixelcopter-v0** (from `gymnasium[box2d]`)
 
 ![Pixelcopter](https://github.com/YashrajKupekar17/Policy-Gradient-Pytorch_Implementation-Pixelcopter/blob/main/assets/replay-gif.gif)
 
